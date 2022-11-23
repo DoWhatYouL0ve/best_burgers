@@ -1,4 +1,5 @@
 import { GiHamburger } from "react-icons/gi";
+import Link from "next/link";
 
 const Header = () => {
   return (
@@ -8,10 +9,10 @@ const Header = () => {
                 <GiHamburger/>
               </div>
               <nav>
-                  <a>Home</a>
-                  <a>Burgers Menu</a>
-                  <a>About Us</a>
-                  <a>Reviews</a>
+                  <Link href={'/'}>Home</Link>
+                  <Link href={'/burgers'}>Burgers Menu</Link>
+                  <Link href={'/about'}>About Us</Link>
+                  <Link href={'/reviews'}>Reviews</Link>
               </nav>
           </header>
       </>
