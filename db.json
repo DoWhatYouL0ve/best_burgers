@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "name": "Cheeseburger",
+      "image": "/images/cheese.jpg",
+      "desc":
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci debitis dignissimos, dolor laborum modi nihil perspiciatis quis soluta ut voluptates?",
+      "price": 10,
+      "id": "001"
+    },
+    {
+      "name": "Chicken burger",
+      "image": "/images/chicken.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci debitis dignissimos, dolor laborum modi nihil perspiciatis quis soluta ut voluptates?",
+      "price": 12,
+      "id": "002"
+    },
+    {
+      "name": "Double burger",
+      "image": "/images/double.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci debitis dignissimos, dolor laborum modi nihil perspiciatis quis soluta ut voluptates?",
+      "price": 15,
+      "id": "003"
+    }
+  ]
+}
