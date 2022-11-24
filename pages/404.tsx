@@ -18,7 +18,7 @@ const NotfoundPage = () => {
           <div className={'not-found'}>
             <h1>Ops...</h1>
             <h2>Sorry, this page doesn&apos;t exist!</h2>
-              <p>Please click <Link href={'/'}><span>go tohome page</span></Link> if it won&apos;t redirect you automatically in 5 seconds</p>
+              <p>Please click <Link href={'/'}><span>go to home page</span></Link> if it won&apos;t redirect you automatically in 5 seconds</p>
           </div>
       </>
   )
